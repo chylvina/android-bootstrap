@@ -1,16 +1,16 @@
 
 
-package com.donnfelker.android.bootstrap.test;
+package com.chylvina.android.forum.test;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
 import android.app.Instrumentation;
 import android.content.Context;
 import android.util.Log;
-import static com.donnfelker.android.bootstrap.core.Constants.Auth.*;
+import static com.chylvina.android.forum.core.Constants.Auth.*;
 
-import com.donnfelker.android.bootstrap.tests.R;
-import com.donnfelker.android.bootstrap.util.Ln;
+import com.chylvina.android.forum.test.R;
+import com.chylvina.android.forum.util.Ln;
 
 
 /**

@@ -1,10 +1,10 @@
 
 
-package com.donnfelker.android.bootstrap.test;
+package com.chylvina.android.forum.test;
 
 import android.test.ActivityInstrumentationTestCase2;
 
-import com.donnfelker.android.bootstrap.ui.CarouselActivity;
+import com.chylvina.android.forum.ui.CarouselActivity;
 
 
 /**
