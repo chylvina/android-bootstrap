@@ -7,7 +7,7 @@
               android:background="@color/nav_background"
               android:gravity="center_horizontal">
 
-    <com.donnfelker.android.bootstrap.ui.view.CapitalizedTextView
+    <com.chylvina.android.forum.ui.view.CapitalizedTextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/home"
@@ -24,7 +24,7 @@
             android:background="@color/vert_sep_color"
             />
 
-    <com.donnfelker.android.bootstrap.ui.view.CapitalizedTextView
+    <com.chylvina.android.forum.ui.view.CapitalizedTextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/timer"
