@@ -39,6 +39,10 @@ public class Constants {
         private Http() {}
 
 
+        public static final String HOST = "https://localhost:8080";
+
+        public static final String URL_TOP10 = HOST + "/api/newsmth/top10";
+
 
         /**
          * Base URL for all requests
